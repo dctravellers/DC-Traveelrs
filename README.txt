@@ -26,3 +26,6 @@ GitHub Pages:
 3. Settings -> Pages -> deploy from main branch/root.
 4. Test the generated github.io address.
 5. Only after the site works, configure dctravellers.in as the custom domain and update DNS.
+
+
+Updated with real DC Travellers Urbania photos in the assets folder.

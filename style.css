@@ -22,7 +22,7 @@ img{max-width:100%;display:block}
 .btn-ghost{color:#fff;border-color:rgba(255,255,255,.3)}.btn-ghost:hover{border-color:var(--gold);color:var(--gold2)}
 .hero{min-height:690px;display:flex;align-items:center;position:relative;overflow:hidden;background:
 linear-gradient(90deg,rgba(4,12,21,.94) 0%,rgba(4,12,21,.72) 48%,rgba(4,12,21,.38) 100%),
-url('https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1900&q=85') center/cover}
+url('assets/urbania-mountain.jpg') center/cover}
 .hero:after{content:"";position:absolute;inset:auto 0 0;height:150px;background:linear-gradient(transparent,var(--navy))}
 .hero-content{position:relative;z-index:2;max-width:760px;padding:90px 0}
 .eyebrow{color:var(--gold2);font-size:12px;font-weight:800;letter-spacing:.24em;margin-bottom:18px}
